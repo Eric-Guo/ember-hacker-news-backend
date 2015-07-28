@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/
+  title: You’re Missing the Point of Server-Side Rendered JavaScript Apps
+  votes: 1
+  user_id: 2
+
+two:
+  url: http://blog.cloud-mes.com/2014/10/02/checking-gem-reverse-dependencies/
+  title: Checking Gem Reverse Dependencies
+  votes: 2
+  user_id: 1
