@@ -11,3 +11,21 @@ two:
   title: Checking Gem Reverse Dependencies
   votes: 2
   user_id: 1
+
+three:
+  url: http://emberjs.com/blog/2015/06/16/ember-project-at-2-0.html
+  title: THE EMBER 2.X PROJECT
+  votes: 3
+  user_id: 3
+
+four:
+  url: http://emberjs.com/blog/2015/06/18/ember-data-1-13-released.html
+  title: EMBER DATA V1.13 RELEASED
+  votes: 4
+  user_id: 4
+
+five:
+  url: http://weblog.rubyonrails.org/2015/7/17/this-week-in-rails-goodbye-rack-lock-concurrent-ruby-better-ac-parameters-and-more/
+  title: 'This week in Rails: goodbye Rack::Lock, concurrent-ruby, better AC::Parameters and more'
+  votes: 5
+  user_id: 5

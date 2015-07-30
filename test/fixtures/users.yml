@@ -7,3 +7,15 @@ eric:
 tom:
   id: 2
   email: tom@tomdale.net
+
+yehuda:
+  id: 3
+  email: yehuda.katz@emberjs.com
+
+igor:
+  id: 4
+  email: igor.terzic@emberjs.com
+
+vipulnsward:
+  id: 5
+  email: vipulnsward@rubyonrails.org
